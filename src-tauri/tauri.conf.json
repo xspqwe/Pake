@@ -8,7 +8,7 @@
             "csp": null,
             "dangerousRemoteDomainIpcAccess": [
                 {
-                    "domain": "weread.qq.com",
+                    "domain": "chat.aixbus.com",
                     "windows": [
                         "pake"
                     ],
