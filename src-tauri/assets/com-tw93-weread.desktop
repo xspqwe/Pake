@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
 Categories=Office
-Exec=com-pake-weread
-Icon=com-pake-weread
-Name=com-pake-weread
+Exec=com-pake-AI小巴士
+Icon=com-pake-AI小巴士
+Name=com-pake-AI小巴士
 Name[zh_CN]=AI小巴士
 StartupNotify=true
 Terminal=false
