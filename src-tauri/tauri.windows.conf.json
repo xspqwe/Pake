@@ -1,7 +1,7 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
+      "icon": ["png/AI小巴士_256.ico", "png/AI小巴士_32.ico"],
       "identifier": "chat.aixbus.com",
       "active": true,
       "category": "DeveloperTool",
