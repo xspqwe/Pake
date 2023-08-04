@@ -1,6 +1,6 @@
 {
     "package": {
-        "productName": "WeRead",
+        "productName": "AI小巴士",
         "version": "1.0.0"
     },
     "tauri": {
