@@ -8,8 +8,8 @@
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
-      "shortDescription": "",
+      "resources": ["png/AI小巴士_32.ico"],
+      "shortDescription": "AI小巴士，AI智能问答系统",
       "targets": ["msi"],
       "windows": {
         "certificateThumbprint": null,
