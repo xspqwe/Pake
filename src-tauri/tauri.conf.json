@@ -20,7 +20,7 @@
             "active": false
         },
         "systemTray": {
-            "iconPath": "png/icon_512.png",
+            "iconPath": "png/AI小巴士_512.png",
             "iconAsTemplate": true
         },
         "allowlist": {
